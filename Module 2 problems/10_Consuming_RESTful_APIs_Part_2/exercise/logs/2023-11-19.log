@@ -1,0 +1,9 @@
+2023-11-19T21:41:56.282914 I/O error on POST request for "http://localhost:3002/auctions/": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-11-19T21:46:46.4878975 404 : Not Found
+2023-11-19T21:46:46.49089 I/O error on PUT request for "http://localhost:3002/auctions/1": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-11-19T21:46:46.5829319 I/O error on POST request for "http://localhost:3002/auctions/": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-11-19T21:50:26.889629 404 : Not Found
+2023-11-19T21:50:26.8936402 I/O error on DELETE request for "http://localhost:3002/auctions/1": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-11-19T21:50:27.0055342 404 : Not Found
+2023-11-19T21:50:27.0065322 I/O error on PUT request for "http://localhost:3002/auctions/1": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-11-19T21:50:27.0826015 I/O error on POST request for "http://localhost:3002/auctions/": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
